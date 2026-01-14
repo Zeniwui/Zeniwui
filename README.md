@@ -4,7 +4,7 @@
 Soy un estudiante de 3.º año enfocado en aprender buenas prácticas de desarrollo de software. Me encanta resolver problemas complejos y automatizar cosas.
 
 - 🔭 Actualmente estoy trabajando en: **Mis habilidades de Git y DevOps**
-- 🌱 Estoy aprendiendo: **Java, C#, y arquitecturas limpias**
+- 🌱 Estoy aprendiendo: **Java, C++, y arquitecturas limpias**
 - 👯 Busco colaborar en: **Proyectos Open Source para principiantes**
 - ⚡ Dato curioso: **Antes guardaba mis versiones en carpetas .zip**
 

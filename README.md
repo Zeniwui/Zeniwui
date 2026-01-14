@@ -21,9 +21,9 @@ Aquí es donde muestro mis herramientas (Badges):
 ---
 
 ### 📊 Mis Estadísticas de GitHub
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=Zeniwui&show_icons=true&theme=radical)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeniwui&layout=compact&theme=radical)
 
 <!--
 **Zeniwui/Zeniwui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

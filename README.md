@@ -3,7 +3,7 @@
 
 🎓 Estudiante en la EPI de Gijón (Universidad de Oviedo).  
 🚀 Me apasiona el desarrollo Backend, la automatización de procesos y resolver problemas de negocio reales mediante código limpio y eficiente.  
-🎯 Busco oportunidades de prácticas para aplicar mis conocimientos en proyectos a gran escala, aprender metodologías de trabajo en equipo y crecer hacia roles de liderazgo técnico.  
+🎯 Busco oportunidades de prácticas para aplicar mis conocimientos en proyectos a gran escala, aprender metodologías de trabajo en equipo y crecer hacia roles de alta responsabilidad y gestión. 
 
 ### 💻 Lo que estoy construyendo
 

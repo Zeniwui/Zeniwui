@@ -1,9 +1,9 @@
 ### Hola, soy Xen 👋
 #### Estudiante de Ingeniería Informática
 
--🎓 Estudiante en la EPI de Gijón (Universidad de Oviedo).
--🚀 Me apasiona el desarrollo Backend, la automatización de procesos y resolver problemas de negocio reales mediante código limpio y eficiente.
--🎯 Busco oportunidades de prácticas para aplicar mis conocimientos en proyectos a gran escala, aprender metodologías de trabajo en equipo y crecer hacia roles de liderazgo técnico.
+🎓 Estudiante en la EPI de Gijón (Universidad de Oviedo).  
+🚀 Me apasiona el desarrollo Backend, la automatización de procesos y resolver problemas de negocio reales mediante código limpio y eficiente.  
+🎯 Busco oportunidades de prácticas para aplicar mis conocimientos en proyectos a gran escala, aprender metodologías de trabajo en equipo y crecer hacia roles de liderazgo técnico.  
 
 ### 💻 Lo que estoy construyendo
 
@@ -37,5 +37,5 @@
 
 ---
 
-- ⚡ Dato curioso: **Antes guardaba mis versiones en carpetas .zip**
+⚡ Dato curioso: **Antes guardaba mis versiones en carpetas .zip**
 

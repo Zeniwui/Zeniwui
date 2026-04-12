@@ -7,7 +7,7 @@
 
 ### 💻 Lo que estoy construyendo
 
-- 📦 **Motor de Automatización Logística:** Aplicación Backend autónoma (Java/Spring Boot) que soluciona la desincronización de envíos mediante *web scraping* a Correos y automatiza notificaciones a clientes vía Telegram y WhatsApp.
+- 📦 **Motor de Automatización Logística y Bot de Notificaciones:** Aplicación Backend autónoma (Java/Spring Boot) que soluciona la desincronización de envíos mediante *web scraping* a Correos y automatiza notificaciones a clientes vía Telegram y WhatsApp.
 - 🛒 **Plataformas E-commerce B2C:** Desarrollo, gestión y despliegue de tiendas online optimizadas para el sector apícola.
 
 ---

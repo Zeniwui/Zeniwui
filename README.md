@@ -2,7 +2,7 @@
 #### Estudiante de Ingeniería Informática
 
 🎓 Estudiante de último año en la EPI de Gijón (Universidad de Oviedo).  
-🚀 Me apasiona el desarrollo Backend, la automatización de procesos y resolver problemas de negocio reales mediante código limpio y eficiente. Actualmente ampliando mi formación hacia entornos Cloud.
+🚀 Me apasiona el desarrollo Backend, la automatización de procesos y resolver problemas de negocio reales mediante código limpio y eficiente. Actualmente ampliando mi formación hacia entornos Cloud.  
 🎯 Busco una prácticas profesionales donde aportar valor desde el primer día, consolidar mis conocimientos técnicos y crecer metodológicamente junto a un equipo experimentado.
 
 ### 💻 Lo que estoy construyendo e investigando

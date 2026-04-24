@@ -1,12 +1,13 @@
 ### Hola, soy Xen 👋
 #### Estudiante de Ingeniería Informática
 
-🎓 Estudiante en la EPI de Gijón (Universidad de Oviedo).  
-🚀 Me apasiona el desarrollo Backend, la automatización de procesos y resolver problemas de negocio reales mediante código limpio y eficiente.  
-🎯 Busco oportunidades de prácticas para aplicar mis conocimientos en proyectos a gran escala, aprender metodologías de trabajo en equipo y crecer hacia roles de alta responsabilidad y gestión. 
+🎓 Estudiante de último año en la EPI de Gijón (Universidad de Oviedo).  
+🚀 Me apasiona el desarrollo Backend, la automatización de procesos y resolver problemas de negocio reales mediante código limpio y eficiente. Actualmente ampliando mi formación hacia entornos Cloud.
+🎯 Busco unas prácticas profesionales donde aportar valor desde el primer día, consolidar mis conocimientos técnicos y crecer metodológicamente junto a un equipo experimentado.
 
-### 💻 Lo que estoy construyendo
+### 💻 Lo que estoy construyendo e investigando
 
+- 🧠 **Investigación Algorítmica (Grupo iScOp):** Desarrollo e implementación de algoritmos de búsqueda local para resolver problemas NP-Hard (Vehicle Routing Problem), optimizando rendimiento y reportando métricas.
 - 📦 **Motor de Automatización Logística y Bot de Notificaciones:** Aplicación Backend autónoma (Java/Spring Boot) que soluciona la desincronización de envíos mediante *web scraping* a Correos y automatiza notificaciones a clientes vía Telegram y WhatsApp.
 - 🛒 **Plataformas E-commerce B2C:** Desarrollo, gestión y despliegue de tiendas online optimizadas para el sector apícola.
 
@@ -23,6 +24,8 @@
 
 **Herramientas y Control de Versiones** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+*(Próximamente explorando AWS y tecnologías Cloud ☁️)*
 
 ---
 

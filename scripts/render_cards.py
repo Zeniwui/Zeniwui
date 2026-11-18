@@ -358,7 +358,7 @@ def render_hero(theme_name: str, t: dict, stats: dict) -> str:
 
     if theme_name == "terminal":
         right = (
-            f'<g transform="translate(700,40)" class="r" style="animation-delay:180ms">'
+            f'<g transform="translate(700,40)"><g class="r" style="animation-delay:180ms">'
             f'<rect width="444" height="280" rx="12" fill="{t["card"]}" stroke="{t["border"]}" stroke-width="1.5"/>'
             f'<rect width="444" height="38" rx="12" fill="{t["card_alt"]}"/>'
             f'<rect y="26" width="444" height="12" fill="{t["card_alt"]}"/>'
@@ -374,11 +374,11 @@ def render_hero(theme_name: str, t: dict, stats: dict) -> str:
             f'<text y="132" fill="{t["primary"]}" class="f" style="animation-delay:780ms">$ gh status --year</text>'
             f'<text y="160" fill="{t["text_soft"]}" class="f" style="animation-delay:900ms">{total} contribs · {streak}d streak</text>'
             f'<text y="192" fill="{t["primary"]}" class="f" style="animation-delay:1020ms">$ <tspan class="cur" fill="{t["text"]}">█</tspan></text>'
-            f'</g></g>'
+            f'</g></g></g>'
         )
     elif theme_name == "blueprint":
         right = (
-            f'<g transform="translate(700,40)" class="r" style="animation-delay:180ms">'
+            f'<g transform="translate(700,40)"><g class="r" style="animation-delay:180ms">'
             f'<rect width="444" height="280" rx="10" fill="{t["card"]}" stroke="{t["border"]}" stroke-width="1.5"/>'
             f'<text x="20" y="30" font-family="{FONT_MONO}" font-size="14" fill="{t["primary"]}" letter-spacing="1.5">SYS // BACKEND PIPELINE</text>'
             f'<text x="424" y="30" text-anchor="end" font-family="{FONT_MONO}" font-size="14" fill="{t["accent"]}">{total} OPS</text>'
@@ -400,7 +400,7 @@ def render_hero(theme_name: str, t: dict, stats: dict) -> str:
             f'<g class="p" style="animation-delay:780ms"><rect x="135" y="190" width="220" height="58" rx="8" fill="{t["card_alt"]}" stroke="{t["accent2"]}" stroke-width="1.5"/>'
             f'<text x="245" y="216" text-anchor="middle" font-family="{FONT_MONO}" font-size="15" font-weight="700" fill="{t["accent2"]}">AUTOMATION &amp; VRP</text>'
             f'<text x="245" y="236" text-anchor="middle" font-family="{FONT_MONO}" font-size="13" fill="{t["muted"]}">Java · Python · C++</text></g>'
-            f'</g>'
+            f'</g></g>'
         )
     else:  # editorial
         pillars = [
@@ -412,12 +412,12 @@ def render_hero(theme_name: str, t: dict, stats: dict) -> str:
         for idx, (num, label, sub, col, delay) in enumerate(pillars):
             yy = idx * 92
             items.append(
-                f'<g transform="translate(0,{yy})" class="ti" style="animation-delay:{delay}ms">'
+                f'<g transform="translate(0,{yy})"><g class="ti" style="animation-delay:{delay}ms">'
                 f'<rect width="430" height="78" rx="12" fill="{t["card"]}" stroke="{t["border"]}" stroke-width="1.5"/>'
                 f'<rect width="8" height="78" rx="4" fill="{col}"/>'
                 f'<text x="26" y="34" font-family="{FONT_MONO}" font-size="14" font-weight="700" fill="{col}" letter-spacing="1.2">{num} · {label}</text>'
                 f'<text x="26" y="59" font-family="{FONT_SANS}" font-size="18" font-weight="600" fill="{t["text"]}">{sub}</text>'
-                f'</g>'
+                f'</g></g>'
             )
         right = f'<g transform="translate(714,48)">{"".join(items)}</g>'
 
@@ -509,17 +509,17 @@ def render_activity(theme_name: str, t: dict, stats: dict) -> str:
     left = (
         f'<g transform="translate(56,48)">'
         f'<text x="0" y="0" font-family="{t["title_font"]}" font-size="24" font-weight="700" fill="{t["text"]}">Pulso Mensual</text>'
-        f'<g transform="translate(0,48)" class="r" style="animation-delay:120ms">'
+        f'<g transform="translate(0,48)"><g class="r" style="animation-delay:120ms">'
         f'<text y="0" font-family="{FONT_MONO}" font-size="15" fill="{t["muted"]}">TOTAL 12 MESES</text>'
         f'<text y="34" font-family="{FONT_SANS}" font-size="34" font-weight="700" fill="{t["primary"]}">{total}</text>'
-        f'</g>'
-        f'<g transform="translate(0,124)" class="r" style="animation-delay:220ms">'
+        f'</g></g>'
+        f'<g transform="translate(0,124)"><g class="r" style="animation-delay:220ms">'
         f'<text y="0" font-family="{FONT_MONO}" font-size="15" fill="{t["muted"]}">RACHA ACTUAL / MÁX</text>'
         f'<text y="34" font-family="{FONT_SANS}" font-size="30" font-weight="700" fill="{t["text"]}">{curr}d <tspan fill="{t["muted"]}" font-size="22">/ {longest}d</tspan></text>'
-        f'</g>'
-        f'<g transform="translate(0,192)" class="r" style="animation-delay:320ms">'
-        f'<text y="0" font-family="{FONT_MONO}" font-size="15" fill="{t["muted"]}">MEJOR DÍA: <tspan fill="{t["accent"]}" font-weight="700">{best["count"]} contribs</tspan> ({best["date"]})</text>'
         f'</g></g>'
+        f'<g transform="translate(0,192)"><g class="r" style="animation-delay:320ms">'
+        f'<text y="0" font-family="{FONT_MONO}" font-size="15" fill="{t["muted"]}">MEJOR DÍA: <tspan fill="{t["accent"]}" font-weight="700">{best["count"]} contribs</tspan> ({best["date"]})</text>'
+        f'</g></g></g>'
     )
 
     # Monthly bar chart
@@ -615,10 +615,10 @@ def render_stack(theme_name: str, t: dict) -> str:
                 f'<text x="{px + 30}" y="{py + 23}" font-family="{FONT_SANS}" font-size="18" font-weight="600" fill="{t["text_soft"]}">{escape(item)}</text>'
             )
         cols_svg.append(
-            f'<g transform="translate({cx},74)" class="r" style="animation-delay:{idx * 130}ms">'
+            f'<g transform="translate({cx},74)"><g class="r" style="animation-delay:{idx * 130}ms">'
             f'<text x="0" y="14" font-family="{FONT_MONO}" font-size="15" font-weight="700" fill="{col}" letter-spacing="1">{escape(heading)}</text>'
             f'{"".join(pills)}'
-            f'</g>'
+            f'</g></g>'
         )
 
     return svg_doc(

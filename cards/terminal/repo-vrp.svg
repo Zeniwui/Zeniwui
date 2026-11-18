@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="240" viewBox="0 0 400 240" role="img" aria-labelledby="title desc"><title id="title">Proyecto vrp</title><desc id="desc">Implementación en Java de algoritmos de optimización y planificación en prácticas con iScOp (UniOvi).</desc><style>
+@keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+@keyframes grow{from{transform:scaleY(0)}to{transform:scaleY(1)}}
+@keyframes pop{0%{opacity:0;transform:scale(.4)}70%{opacity:1;transform:scale(1.12)}100%{opacity:1;transform:none}}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+@keyframes nudge{0%,100%{transform:none}50%{transform:translateX(5px)}}
+@keyframes flow{to{stroke-dashoffset:-28}}
+@keyframes tilein{0%{opacity:0;transform:translateY(26px) scale(.94)}65%{opacity:1;transform:translateY(-3px) scale(1.01)}100%{opacity:1;transform:none}}
+@keyframes sheen{0%{transform:translateX(-300px) skewX(-20deg)}28%,100%{transform:translateX(520px) skewX(-20deg)}}
+.r{opacity:0;animation:rise .7s cubic-bezier(.2,.7,.2,1) both;transform-box:fill-box}
+.f{opacity:0;animation:fade .6s ease-out both}
+.g{transform-box:fill-box;transform-origin:bottom;transform:scaleY(0);animation:grow .75s cubic-bezier(.2,.7,.2,1) both}
+.p{opacity:0;transform-box:fill-box;transform-origin:center;animation:pop .45s ease-out both}
+.live{animation:pulse 1.8s ease-in-out infinite}
+.cur{animation:blink 1.05s steps(1) infinite}
+.n{transform-box:fill-box;animation:nudge 1.8s ease-in-out infinite}
+.fl{stroke-dasharray:6 8;animation:flow 1.4s linear infinite}
+.ti{opacity:0;transform-box:fill-box;animation:tilein .8s cubic-bezier(.2,.8,.2,1) both}
+.sh{animation:sheen 5.5s ease-in-out infinite}
+@media (prefers-reduced-motion:reduce){
+  .r,.f,.g,.p,.live,.cur,.n,.fl,.ti{animation:none!important;opacity:1!important;transform:none!important}
+  .sh{display:none}
+}
+</style><defs><clipPath id="clip"><rect width="400" height="240" rx="14"/></clipPath></defs><rect width="400" height="240" rx="14" fill="#0D1317" stroke="#232ED1" stroke-width="1.5"/><g class="ti" style="animation-delay:140ms"><text x="28" y="42" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="14" font-weight="700" fill="#6564DB" letter-spacing="0.8">JAVA · INVESTIGACIÓN iScOp</text><text x="28" y="76" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="25" font-weight="700" fill="#eef7fa">vrp</text><text x="28" y="116" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#c8d8ee">Implementación en Java de algoritmos</text><text x="28" y="141" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#c8d8ee">de optimización y planificación en</text><text x="28" y="166" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#c8d8ee">prácticas con iScOp (UniOvi).</text><line x1="28" y1="192" x2="372" y2="192" stroke="#232ED1"/><text x="28" y="218" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="14" fill="#8299bd">Java · Optimización · UniOvi</text><text x="368" y="218" text-anchor="end" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="20" font-weight="700" fill="#6564DB" class="n">→</text></g></svg>

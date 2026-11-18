@@ -1,35 +1,14 @@
-### Hola, soy Xen 👋
-#### Estudiante de Ingeniería Informática
-
-🎓 Estudiante de último año en la EPI de Gijón (Universidad de Oviedo).  
-🚀 Lo que más disfruto es el desarrollo backend, la automatización de procesos y resolver problemas de negocio reales mediante código limpio y eficiente.  
-
----
-
-### 🛠️ Mi Stack Tecnológico
-
-**Lenguajes Principales** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-001D4A?style=for-the-badge&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-**Backend & Bases de Datos** ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-111111?style=for-the-badge&logo=laravel)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Herramientas y Control de Versiones** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
-
+<!-- Tarjetas SVG animadas generadas por scripts/render_cards.py (tema: terminal)
+     y actualizadas diariamente por .github/workflows/update-profile-art.yml.
+     Mantén las 3 tarjetas de proyecto en una sola línea sin espacios entre ellas. -->
 <div align="center">
-  <h3>📊 Mis Estadísticas de GitHub</h3>
-  
-  <a href="https://github.com/Zeniwui">
-    <img height="180em" src="https://readme-stats-phi-three.vercel.app/api?username=Zeniwui&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://readme-stats-phi-three.vercel.app/api/top-langs/?username=Zeniwui&layout=compact&theme=radical"/>
-  </a>
+<img src="./cards/terminal/hero.svg" width="100%" alt="Xen (Zeniwui) — Estudiante de Ingeniería Informática en la EPI de Gijón (UniOvi), enfocado en desarrollo backend y automatización de procesos." /><br>
+<img src="./cards/terminal/heatmap.svg" width="100%" alt="Mapa anual de contribuciones de Zeniwui en GitHub, actualizado diariamente." /><br>
+<img src="./cards/terminal/activity.svg" width="100%" alt="Pulso mensual de contribuciones, racha actual, racha máxima y mejor día de Zeniwui." /><br>
+<a href="https://github.com/Zeniwui/gestor-pedidos-miel"><img src="./cards/terminal/repo-gestor-pedidos-miel.svg" width="33.333%" alt="gestor-pedidos-miel: Aplicación para gestionar los pedidos de una tienda online y mandar notificaciones por WhatsApp a los clientes." /></a><a href="https://github.com/Zeniwui/vrp"><img src="./cards/terminal/repo-vrp.svg" width="33.333%" alt="vrp: Implementación en Java de algoritmos de optimización y planificación realizados en prácticas en iScOp (UniOvi)." /></a><a href="https://github.com/Zeniwui/landing-pcu"><img src="./cards/terminal/repo-landing-pcu.svg" width="33.333%" alt="landing-pcu: Página web de la Asociación de Programación Competitiva de la Universidad de Oviedo." /></a><br>
+<img src="./cards/terminal/stack.svg" width="100%" alt="Stack tecnológico de Zeniwui: Java, PHP, C++, Python, Spring, Laravel, MySQL, PostgreSQL, Git y GitHub." />
 </div>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/TU-USUARIO-LINKEDIN">LinkedIn</a>
+</p>

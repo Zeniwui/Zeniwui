@@ -10,5 +10,5 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU-USUARIO-LINKEDIN">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/xenpanera">LinkedIn</a>
 </p>
